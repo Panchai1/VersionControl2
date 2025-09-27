@@ -1,8 +1,8 @@
 {
-  "name": "versioncontrol4",
+  "name": "versioncontrol2",
   "version": "0.0.1",
   "description": "A Quasar Project",
-  "productName": "VersionControl4",
+  "productName": "VersionControl2",
   "author": "Chabiao44 <ckhemaramylol@gmail.com>",
   "private": true,
   "type": "module",
